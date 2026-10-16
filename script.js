@@ -467,11 +467,12 @@ function closeGiftModal() {
 const LETTER_SECTIONS = [
   {
     id: 'letter-headline-el',
-    text: "Happy birthday to my favourite\nperson! ❤️"
+    text: "Happy birthday to one of my favourite\nperson! ❤️"
   },
   {
     id: 'letter-p1-el',
-    text: "I hope this year brings you everything you've been wishing for and so much more. Thank you for making my days happier, my bad days easier, and my life a little more beautiful just by being in it. 🥺💖"
+    text: "I hope life brings you endless happiness, beautiful moments, and everything your heart wishes for. No matter where life takes you, you'll always be someone special to me. May your smile never fade, your dreams come true, and your heart always find reasons to be happy. Stay the wonderful person you are. Sending you lots of love and the biggest hug! 🫂💖✨
+"
   },
   {
     id: 'letter-p2-el',
@@ -479,7 +480,7 @@ const LETTER_SECTIONS = [
   },
   {
     id: 'letter-closing-el',
-    text: "Happy birthday, my love. I love you more than you know. 🫶🏻🎂❤️"
+    text: "Happy birthday, my friend. I love you more than you know. 🤝🏼🎂❤️"
   }
 ];
 
